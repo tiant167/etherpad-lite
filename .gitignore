@@ -1,4 +1,3 @@
-node_modules
 settings.json
 !settings.json.template
 APIKEY.txt
@@ -16,3 +15,6 @@ npm-debug.log
 *.crt
 *.key
 bin/etherpad-1.deb
+node_modules/ep_adminpads
+node_modules/ep_cursortrace
+node_modules/ep_etherpad-lite
